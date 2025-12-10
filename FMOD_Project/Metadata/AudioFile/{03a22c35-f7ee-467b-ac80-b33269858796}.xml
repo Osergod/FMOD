@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{03a22c35-f7ee-467b-ac80-b33269858796}">
+		<property name="assetPath">
+			<value>Baldur's Gate 3 OST - Down By The River (Instrumental) - Borislav Slavov.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>136.05600000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{dd50b463-3185-4811-a713-289122c1d192}</destination>
+		</relationship>
+	</object>
+</objects>
