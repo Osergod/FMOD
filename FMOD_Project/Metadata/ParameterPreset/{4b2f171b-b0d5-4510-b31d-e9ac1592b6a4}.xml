@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{4b2f171b-b0d5-4510-b31d-e9ac1592b6a4}">
+		<property name="name">
+			<value>DelayTime</value>
+		</property>
+		<relationship name="folder">
+			<destination>{a7ad37a9-2fa9-43d9-914b-618e1a683377}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{b09fd195-b74e-4513-9302-30029ce89b80}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{b09fd195-b74e-4513-9302-30029ce89b80}">
+		<property name="maximum">
+			<value>1000</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
